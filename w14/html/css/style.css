@@ -1,0 +1,35 @@
+h1 {
+    margin-bottom: 5px;
+}
+
+#HK {
+    color: red;
+    text-align: center;
+}
+
+#intro {
+    text-align: center;
+}
+
+.PPP {
+    color: #ffd103;
+    text-align: center;
+}
+
+.KR {
+    color: rgb(198, 106, 226);
+    text-align: center;
+}
+
+#img {
+    height: 200px;
+    margin-bottom: 50px;
+}
+
+.img-detail {
+    text-align:center;
+}
+
+#night {
+    float: right;
+}
